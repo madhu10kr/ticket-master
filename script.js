@@ -1,5 +1,4 @@
-var baseUrl = 'http://dct-api-data.herokuapp.com'
-var key = require('./ignore-key').key;
+var baseUrl = 'http://dct-api-data.herokuapp.com';
 
 var countHandle = document.getElementById('count');
 var tableBodyHandle = document.getElementById('tableBody');
